@@ -14,4 +14,22 @@ History Reuse Prevention: Integrates a local SQLite database to track previously
 
 Secure Suggestions: Generates cryptographically secure alternative passwords using Python's secrets module.
 
+=========================================
+      PASSWORD STRENGTH ANALYZER         
+=========================================
+
+Enter a password to test (or type 'exit' to quit): Password123!
+
+--- ANALYSIS RESULTS ---
+Overall Rating : REUSED (UNSAFE)
+Password Length: 12 characters
+Visual Entropy : 78.61 bits
+
+Suggestions to Improve:
+• Rejected: You have used this password before! Reuse is prohibited.
+
+--- SECURE ALTERNATIVE ---
+Suggested Alternative: k#9X_mP2vF!aLq9}
+
+
 Made by Yuvraj 
