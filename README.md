@@ -22,7 +22,9 @@ Enter a password to test (or type 'exit' to quit): Password123!
 
 --- ANALYSIS RESULTS ---
 Overall Rating : REUSED (UNSAFE)
+
 Password Length: 12 characters
+
 Visual Entropy : 78.61 bits
 
 Suggestions to Improve:
